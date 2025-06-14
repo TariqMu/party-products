@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: black;
+    padding: 20px;
+    color: orangered;
+    
+}
+header a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 10px;
+    background-color:orangered;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+h1{
+    color: black;
+    border: 1px solid orangered;
+    border-radius: 10px;
+    text-align: center;
+
+}
+footer p {
+    background-color: black;
+    color:orangered;
+    padding:10px;
+}
+
+nav{
+    padding: 15px;
+    text-align: center;
+}
+nav a{
+    color: orangered;
+    text-decoration: none;
+    margin: 15px;
+    background-color: black;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.tariq{
+    background-color:orangered;
+    border: 1px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+h2{
+    color: orangered;
+    
+}
+main a{
+   color: orangered;
+    text-decoration: none;
+    
+    background-color: black;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;  
+}
